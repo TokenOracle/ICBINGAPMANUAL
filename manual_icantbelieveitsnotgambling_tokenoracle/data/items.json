@@ -20,7 +20,7 @@
     "name": "Progressive NOT BF II Game License",
     "category": [
       "Progressive NOT BF II Game License"
-    ],
+    ],"early": true,
     "progression_skip_balancing": true
   }
 ]
