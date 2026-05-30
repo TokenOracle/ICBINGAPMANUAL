@@ -2,8 +2,8 @@
   {
     "victory": true,
     "name": "Goal: Complete a percentage of collection",
-    "category": [],
-    "requires": "(|ICBING Coin:190|",
+    "category": ["GOAL"],
+    "requires": "{OptionCountPercent(ICBING Coin, GoalPercentage)}",
     "region": "Treasure"
   },
   {
