@@ -1,0 +1,3545 @@
+[
+  {
+    "victory": true,
+    "name": "Goal: Complete a percentage of collection",
+    "category": [],
+    "requires": "(|ICBING Coin:190|",
+    "region": "Treasure"
+  },
+  {
+    "name": "Actual Trash White Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Hat 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Hat 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Hat 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Hat 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Skin 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash White Skin 5",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Skin 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Green Skin 5",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Blue Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Purple Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Yellow Skin 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Red Skin 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Skin 1",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Skin 2",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Skin 3",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash Dark Red Skin 4",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Skin 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Skin 5",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Skin 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Skin 5",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Purple Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Purple Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Skin 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Skin 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Skin 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Skin 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Skin 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Skin 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Hat 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard White Hat 5",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Hat 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Green Hat 5",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Blue Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Purple Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Purple Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Yellow Hat 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Red Hat 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Hat 1",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Hat 2",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Hat 3",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cardboard Dark Red Hat 4",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Skin 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Skin 5",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Skin 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Skin 5",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Purple Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Purple Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Skin 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Skin 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Skin 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Skin 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Skin 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Skin 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Hat 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate White Hat 5",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Hat 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Green Hat 5",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Blue Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Purple Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Purple Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Yellow Hat 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Red Hat 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Hat 1",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Hat 2",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Hat 3",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Crate Dark Red Hat 4",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Skin 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Skin 5",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Skin 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Skin 5",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Purple Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Purple Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Skin 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Skin 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Skin 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Skin 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Skin 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Skin 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Hat 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present White Hat 5",
+    "region": "Present",
+    "category": [
+      "Present",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Hat 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Green Hat 5",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Blue Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Purple Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Purple Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Yellow Hat 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Red Hat 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Hat 1",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Hat 2",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Hat 3",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Present Dark Red Hat 4",
+    "region": "Present",
+    "category": [
+      "Present",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Skin 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Skin 5",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Skin 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Skin 5",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Purple Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Purple Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Skin 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Skin 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Skin 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Skin 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Skin 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Skin 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Hat 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship White Hat 5",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Hat 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Green Hat 5",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Blue Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Purple Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Purple Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Yellow Hat 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Red Hat 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Hat 1",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Hat 2",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Hat 3",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ship Dark Red Hat 4",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Skin 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Skin 5",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Skin 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Skin 5",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Purple Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Purple Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Skin 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Skin 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Skin 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Skin 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Skin 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Skin 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Hat 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo White Hat 5",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Hat 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Green Hat 5",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Blue Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Purple Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Purple Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Yellow Hat 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Red Hat 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Hat 1",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Hat 2",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Hat 3",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Animoo Dark Red Hat 4",
+    "region": "Animoo",
+    "category": [
+      "Animoo",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Skin 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Skin 5",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Skin 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Skin 5",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Purple Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Purple Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Skin 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Skin 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Skin 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Skin 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Skin 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Skin 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Hat 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure White Hat 5",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "White"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Hat 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Green Hat 5",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Green"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Blue Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Blue"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Purple Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Purple Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Purple"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Yellow Hat 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Yellow"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Red Hat 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Hat 1",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Hat 2",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Hat 3",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Treasure Dark Red Hat 4",
+    "region": "Treasure",
+    "category": [
+      "Treasure",
+      "Dark Red"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Actual Trash: Obtain PRIDE in NOT BF II",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:1|"
+  },
+  {
+    "name": "Actual Trash: Get a x3 Multiplier in NOT BF II",
+    "region": "Actual Trash",
+    "category": [
+      "Actual Trash",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:1|"
+  },
+  {
+    "region": "Cardboard",
+    "name": "Cardboard: Obtain ACCOMPLI$HMENT in NOT BF II",
+    "category": [
+      "Cardboard",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:2|"
+  },
+  {
+    "name": "Cardboard: Get a x3 Multiplier in NOT BF II",
+    "region": "Cardboard",
+    "category": [
+      "Cardboard",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:2|"
+  },
+  {
+    "region": "Crate",
+    "name": "Crate: Obtain PRIDE in Not BF II",
+    "category": [
+      "Crate",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:3|"
+  },
+  {
+    "name": "Crate: Get a x3 Multiplier in NOT BF II",
+    "region": "Crate",
+    "category": [
+      "Crate",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:3|"
+  },
+  {
+    "name": "Present: Obtain ACCOMPLI$HMENT in NOT BF II",
+    "region": "Present",
+    "category": [
+      "Present",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:4|"
+  },
+  {
+    "region": "Present",
+    "name": "Present: Get a x3 Multiplier in NOT BF II",
+    "category": [
+      "Present",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:4|"
+  },
+  {
+    "name": "Ship: Obtain PRIDE in Not BF II",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:5|"
+  },
+  {
+    "name": "Ship: Get a x3 Multiplier in NOT BF II",
+    "region": "Ship",
+    "category": [
+      "Ship",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:5|"
+  },
+  {
+    "region": "Animoo",
+    "name": "Animoo: Obtain PRIDE in Not BF II",
+    "category": [
+      "Animoo",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:6|"
+  },
+  {
+    "region": "Animoo",
+    "name": "Animoo: Get a x3 Multiplier in NOT BF II",
+    "category": [
+      "Animoo",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:6|"
+  },
+  {
+    "region": "Treasure",
+    "name": "Treasure: Get a x3 Multiplier in NOT BF II",
+    "category": [
+      "Treasure",
+      "NOT BF II"
+    ],
+    "requires": "|Progressive NOT BF II Game License:7|"
+  },
+  {
+    "name": "Treasure: Be able to Prestige",
+    "region": "Treasure",
+    "category": [
+      "Treasure"
+    ],
+    "requires": ""
+  }
+]

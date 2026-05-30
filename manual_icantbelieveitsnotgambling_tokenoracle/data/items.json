@@ -1,0 +1,26 @@
+[
+  {
+    "count": "6",
+    "name": "Progressive Lootbox Tier",
+    "category": [
+      "Progressive Lootbox Tier"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "241",
+    "name": "ICBING Coin",
+    "category": [
+      "ICBING Coin"
+    ],
+    "progression": true
+  },
+  {
+    "count": "7",
+    "name": "Progressive NOT BF II Game License",
+    "category": [
+      "Progressive NOT BF II Game License"
+    ],
+    "progression_skip_balancing": true
+  }
+]

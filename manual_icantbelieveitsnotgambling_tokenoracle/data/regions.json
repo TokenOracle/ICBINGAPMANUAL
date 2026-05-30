@@ -1,0 +1,43 @@
+{
+  "Actual Trash": {
+    "starting": true,
+    "connects_to": [
+      "Cardboard"
+    ],
+    "requires": ""
+  },
+  "Cardboard": {
+    "connects_to": [
+      "Crate"
+    ],
+    "requires": "|Progressive Lootbox Tier:1|"
+  },
+  "Crate": {
+    "connects_to": [
+      "Present"
+    ],
+    "requires": "|Progressive Lootbox Tier:2|"
+  },
+  "Present": {
+    "connects_to": [
+      "Ship"
+    ],
+    "requires": "|Progressive Lootbox Tier:3|"
+  },
+  "Ship": {
+    "connects_to": [
+      "Animoo"
+    ],
+    "requires": "|Progressive Lootbox Tier:4|"
+  },
+  "Animoo": {
+    "connects_to": [
+      "Treasure"
+    ],
+    "requires": "|Progressive Lootbox Tier:5|"
+  },
+  "Treasure": {
+    "connects_to": [],
+    "requires": "|Progressive Lootbox Tier:6|"
+  }
+}
