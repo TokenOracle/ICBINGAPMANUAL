@@ -3,5 +3,9 @@
   "game": "ICantBelieveItsNotGambling",
   "creator": "TokenOracle",
   "filler_item_name": "Surprise Mechanics",
-  "starting_items": ["item_categories": {["Progressive NOT BF II Game License"], "random": 1}]
+  "starting_items":[
+  {
+	  "item_categories": ["Progressive NOT BF II Game License"],
+	  "random": 1
+}]
 }
